@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E0A3-07BA
+
+ Directory of C:\Users\siebel.VPMCRMDEV1\Desktop\GIT Example
+
+16/04/2020  10:28    <DIR>          .
+16/04/2020  10:28    <DIR>          ..
+16/04/2020  10:28                 0 obaiah.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21.485.191.168 bytes free
